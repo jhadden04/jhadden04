@@ -1,5 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhadden04)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @jhadden04
-- 👀 I’m interested in programming, guitar, skateboarding, reading, music, films and almost any sport
 - 🌱 I’m currently learning all sorts of programming, as well as studying at school
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me @gmail
